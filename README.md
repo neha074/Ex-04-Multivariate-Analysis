@@ -21,3 +21,14 @@ PROGRAM:
 
 
 ![image](https://user-images.githubusercontent.com/113016903/194111118-c39c6daf-513b-4b46-8643-a185fe3cc753.png)
+
+        kurtosis:
+        df.kurtosis()
+        
+        ![image](https://user-images.githubusercontent.com/113016903/194111535-74f96f30-90ae-4dd8-8838-4b0778a8d085.png)
+
+        scatterplot:
+        import pandas as pd
+        import seaborn as sns
+        sns.boxplot(df['Sales'],df['Postal Code'])
+        
