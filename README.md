@@ -20,4 +20,6 @@ df.isnull().sum()
 
 
 
+
+
 ![Screenshot 2022-10-05 214131](https://user-images.githubusercontent.com/113016903/194109610-cce472b7-2988-4e02-bc2e-3aa23de9bc53.jpg)
