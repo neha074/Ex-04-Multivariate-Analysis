@@ -24,8 +24,8 @@ PROGRAM:
 
         kurtosis:
         df.kurtosis()
-        
-        ![image](https://user-images.githubusercontent.com/113016903/194111535-74f96f30-90ae-4dd8-8838-4b0778a8d085.png)
+        ![image](https://user-images.githubusercontent.com/113016903/194112115-2a144b17-6beb-48c1-a778-40a6fcd7d3cb.png)
+
 
         scatterplot:
         import pandas as pd
